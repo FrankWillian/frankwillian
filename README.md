@@ -5,8 +5,7 @@
 - 😄 Fun fact: I learned to write mostly using a MS-DOS computer, when I was 4 years old
 - 🔭 Check out my portfolio: [https://www.linkedin.com/in/frankwillian]
 
-
-## Tecnologias que eu uso no meu dia
+## Quick stats 🚀
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -18,8 +17,6 @@
 <div> 
   <a href="https://www.linkedin.com/in/frankwillian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-## Quick stats 🚀
 
 ## A brief history of me 📖
 
