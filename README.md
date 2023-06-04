@@ -1,4 +1,4 @@
-## Hi there! 
+## Olá jovem, 
 
 - 💻 Sou um Coordenador de Engenharia de Software com experiência em liderança de equipe, treinamento e desenvolvimento de talentos, padronização de metodologias de trabalho e implantação de métricas de performance. Utilizo as metodologias Solid, Domain Driven Design e Arquitetura de Software para garantir a qualidade e escalabilidade das soluções desenvolvidas. Além disso, utilizo a metodologia Kanban para melhorar o fluxo de trabalho e aumentar a eficiência.
 
