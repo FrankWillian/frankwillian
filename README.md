@@ -19,3 +19,9 @@
   <a href="https://www.linkedin.com/in/frankwillian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFernando-TC&show_icons=true&theme=vue-dark)
+
+[![@luizfernando's Holopin board](https://holopin.me/luizfernando)](https://holopin.io/@luizfernando)
+
+<iframe width="980" height="410" src="https://mars.nasa.gov/layout/embed/send-your-name/future/certificate/?cn=82782429426" frameborder="0"> </iframe>
