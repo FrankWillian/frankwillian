@@ -5,7 +5,7 @@
 
 - 👋 My name is Frank
 - 🌱 I’m currently a tech lead on the Opuspac team 
-- 😄 Fun fact: I learned to write mostly using a MS-DOS computer, when I was 4 years old
+- 😄 Fun fact: I learned to write mostly using a MS-DOS computer, when I was 12 years old
 - 🔭 Check out my portfolio: [https://www.linkedin.com/in/frankwillian]
 
   ## Find me at 📬
