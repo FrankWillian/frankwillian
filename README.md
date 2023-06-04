@@ -8,10 +8,10 @@
 - 😄 Fun fact: I learned to write mostly using a MS-DOS computer, when I was 12 years old
 - 🔭 Check out my portfolio: [https://www.linkedin.com/in/frankwillian]
 
-  ## Find me at 📬
+## Find me at 📬
  
 <div> 
-  <a href="https://www.linkedin.com/in/frankwillian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/frankwillian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a><a href="mailto:frank19valentim@gmail.com" target="_blank"></a> 
 </div>
 
 ## A brief history of me 📖
